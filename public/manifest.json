@@ -1,0 +1,25 @@
+{
+  "short_name": "Admin",
+  "name": "DreamLauncher Admin Page",
+  "icons": [
+    {
+      "src": "/statics/images/favicon.svg",
+      "sizes": "",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "/statics/images/logo.svg",
+      "type": "image/svg",
+      "sizes": ""
+    },
+    {
+      "src": "/statics/images/logo-mini.svg",
+      "type": "image/svg",
+      "sizes": ""
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
